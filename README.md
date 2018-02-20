@@ -8,7 +8,7 @@ Using the code I've found on the internet, I took the initiative and made some i
     <h5 align="center">Screenshot from MSPlayer (don't mind about my taste in music)</h5>
 </p>
 
-### :fire: **Shortcut Keys**  
+## :fire: **Shortcut Keys**  
 
 **F12** - Hide music player window  
 **Alt + F12** - Show music player window  
@@ -16,3 +16,7 @@ Using the code I've found on the internet, I took the initiative and made some i
 **F8** - Go forward in song  
 **F9** - Play/Pause song  
 **F10** - Stop song
+
+## License
+
+This project (msplayer) is licensed under the MIT License, the terms can be seen [here](https://github.com/v1nns/msplayer/blob/master/LICENSE).
